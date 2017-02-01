@@ -1,4 +1,5 @@
 name: bomber
+binary: bomber
 packages:
   - libsndfile1-dev
 frameworks:
