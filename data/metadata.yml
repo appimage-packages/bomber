@@ -46,6 +46,7 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - kdnssd
     - libkdegames
 type: git
 url: http://anongit.kde.org/bomber
