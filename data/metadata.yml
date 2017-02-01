@@ -46,6 +46,7 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - libkdegames
 type: git
 url: http://anongit.kde.org/bomber
 buildsystem: cmake
