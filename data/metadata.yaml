@@ -46,10 +46,11 @@ frameworks:
     - kwayland
     - plasma-framework
     - kdecoration
-    - breeze
     - kdnssd
-    - libkdegames
 deps_on_kf5: false
+kde_deps:
+ - libkdegames
+ - breeze
 type: git
 url: http://anongit.kde.org/bomber
 buildsystem: cmake
