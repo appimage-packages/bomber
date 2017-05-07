@@ -4,11 +4,9 @@ Master branch:
 
 AppImage for KDE bomber
 
-Bomber is a single player arcade game. The player is invading various cities in a plane that is decreasing in height.
+bomber is a geography learning tool, which allows you to learn about the political divisions of some countries (divisions, capitals of those divisions and their associated flags if there are some).
 
-The goal of the game is to destroy all the buildings and advance to the next level. Each level gets a bit harder by increasing the speed of the plane and the height of the buildings.
-
-https://www.kde.org/applications/games/bomber/
+https://edu.kde.org/bomber/
 
 S3 Download:
 master:
