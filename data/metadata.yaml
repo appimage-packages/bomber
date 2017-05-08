@@ -1,7 +1,6 @@
 name: bomber
 binary: bomber
-packages:
-  - zsync
+packages: false
   #app specifc
 build_kf5: false
 frameworks: false
